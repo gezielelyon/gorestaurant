@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Gorestaurant**
+# **Gorestaurant**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_gorestaurant)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_gorestaurant)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_gorestaurant)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_gorestaurant)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/gorestaurant)](https://github.com/gezielelyon/gorestaurant/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/gorestaurant)](https://github.com/gezielelyon/gorestaurant/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/gorestaurant)](https://github.com/gezielelyon/gorestaurant/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/gorestaurant)](https://github.com/gezielelyon/gorestaurant)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
